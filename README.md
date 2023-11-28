@@ -40,7 +40,9 @@ RegisterNumber: 23009745
 */
 
 ## Output:
-## CODE:![image](https://github.com/Nalini23009745/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149347484/f6b523c4-a20e-4ad9-a96e-e6b53a7b6fe0)
+## CODE:
+
+![image](https://github.com/Nalini23009745/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149347484/f6b523c4-a20e-4ad9-a96e-e6b53a7b6fe0)
 
 
 ## Truthtable
