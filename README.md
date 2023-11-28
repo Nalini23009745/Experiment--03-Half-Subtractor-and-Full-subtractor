@@ -40,23 +40,8 @@ RegisterNumber: 23009745
 */
 
 ## Output:
-## CODE:### PROGRAM FOR HALF SUBTRACTOR:
-module expthree(a,b,difference,borrow);
-input a,b;
-output difference,borrow;
-assign difference = (a^b);
-assign borrow = (~a&b);
-endmodule
+## CODE:![image](https://github.com/Nalini23009745/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149347484/f6b523c4-a20e-4ad9-a96e-e6b53a7b6fe0)
 
-
-
-### PROGRAM FOR FULL SUBTRACTOR:
-module expfour(a,b,c,difference,borrow);
-input a,b,c;
-output difference,borrow;
-assign difference=(a^b^c);
-assign borrow=(~a&(b^c)|(b&c));
-endmodule
 
 ## Truthtable
 HALF SUBTRACTOR:![image](https://github.com/Nalini23009745/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149347484/8cfa3e36-3489-4e65-962b-55a89e73578b)
